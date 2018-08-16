@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+/out.txt
+.idea/
+Будет удалено .idea/misc.xml
+Будет удалено .idea/modules.xml
+Будет удалено .idea/reest_russia_apps.iml
+Будет удалено .idea/workspace.xml
